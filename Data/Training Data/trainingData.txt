@@ -1,0 +1,4 @@
+Training data for ML models can be downloaded from:
+https://globalfishingwatch.org/data-download/
+
+(:
