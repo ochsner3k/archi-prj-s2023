@@ -10,11 +10,11 @@ Hi guys!! (: The two main functions of this repository are the GE_Analysis.py an
 Please make sure you read and understand the README.md and LICENSE throughly before moving forward with the project and code.
 
 # Currents FIXES
-TODO Update graph every time generate map is clicked
-TODO Update tst.py to download polygons of possible range
-TODO Add basic toolbar
-        Add draw feature
-        drag bar to change speed
-        option to highlight most popular trawling areas
-TODO Add overlaying and comparing maps
-TODO Add ML model for most plausible route based off MMSI
+- TODO Update graph every time generate map is clicked
+- TODO Update tst.py to download polygons of possible range
+- TODO Add basic toolbar
+        - Add draw feature
+        - Add drag bar to change speed
+        - Add option to highlight most popular trawling areas
+- TODO Add overlaying and comparing maps
+- TODO Add ML model for most plausible route based off MMSI
